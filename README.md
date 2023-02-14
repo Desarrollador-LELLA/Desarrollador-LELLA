@@ -1,4 +1,3 @@
-<span>Year: {% var d=new Date(); print(d.getFullYear()); %}</span>
 <h1 align='center'>Hola 👋, soy Luis E. LLancamil Aguilera</h1>
 <h2 align='center'>Mi Apodo de Desarrollador es LELLA</h2>
 <p align='justify'>Soy Desarrollador de Software Full Stack, resido en Santiago de Chile, me encanta el Desarrollo y me encantaría llevar cualquier desafío a lo más alto para fortalecer aún más mis conocimientos.</p>
